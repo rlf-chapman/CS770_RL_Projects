@@ -198,7 +198,7 @@
   "policies_to_train": null,
   "policy_map_cache": -1,
   "policy_map_capacity": 100,
-  "policy_mapping_fn": "<function AlgorithmConfig.DEFAULT_POLICY_MAPPING_FN at 0x000001EA6F4CC5E0>",
+  "policy_mapping_fn": "<function AlgorithmConfig.DEFAULT_POLICY_MAPPING_FN at 0x00000179442E1CF0>",
   "policy_states_are_swappable": false,
   "postprocess_inputs": false,
   "preprocessor_pref": "deepmind",
