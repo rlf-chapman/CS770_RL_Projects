@@ -11,3 +11,5 @@ Group Project submission for CS770 -- Reinforcement Learning
    - I am still imporiving this on my machine, I expect convergence today based on progress.
 - Atari Breakout
   - Environment now successfully builds, currently training.
+  - Massive performance improvements made by changin hyperparameters and modifying number of environments for each worker
+  - workers now also training on GPU simultaneously
